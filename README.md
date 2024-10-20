@@ -78,7 +78,6 @@ For a detailed understanding of the project requirements, please refer to the So
 ## 1.4 Testing
 
 The GitHub repository for this project contains the test cases and bug reports for version 1.3. You can find the repository at the following link: 
-- [Project Version 1.3 Test Cases](https://github.com/remonagayby/guru99-gtpl-bank/tree/main/Project%20Version%201.3/01_Test%20Cases).
 
 If you're interested in testing the site, please proceed with the execution of your test cases. We welcome any feedback you may have to help improve the site's functionality. Additionally, feel free to explore the code and submit any pull requests or issues on the repository.
 
